@@ -8,7 +8,7 @@
     position: absolute;
     width: max-content;
     height: max-content;
-    right: 50.3%;
+    right: 0%;
     top: 2%;
     z-index: 10;
 }
@@ -300,6 +300,3 @@
 
 }
 
-.woocommerce-product-gallery__trigger {
-    left: 0 !important;
-}
