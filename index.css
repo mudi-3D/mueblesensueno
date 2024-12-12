@@ -8,11 +8,10 @@
     position: absolute;
     width: max-content;
     height: max-content;
-    right: 0%;
+    left: 2%;
     top: 2%;
     z-index: 10;
 }
-
 .btnMudi3D {
     width: 90px;
     height: 100px;
@@ -39,11 +38,10 @@
     position: absolute;
     height: 52px;
     top: 21%;
-    right: 105%;
+    left: 100%;
     filter: drop-shadow(3px 5px 5px rgba(10, 10, 10, 0.196));
     line-height: 16px;
 }
-
 
 /* estilos del modal */
 
