@@ -392,7 +392,7 @@ let verifycontent = 0;
 
 /** verify DomElement */
 function verifyDomElement() {
-    const fatherContainer = document.querySelectorAll('.elementor-element.elementor-element-a45e5ef.e-con-full.e-flex.e-con.e-child');
+    const fatherContainer = document.querySelector('.elementor-element.elementor-element-a45e5ef.e-con-full.e-flex.e-con.e-child');
     const skuElement = document.querySelector('input[name="product_id"]');
 
     if (verifycontent >= 1500) {
